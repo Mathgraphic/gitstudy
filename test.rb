@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-i love linux.
-=======
-abc
-I made some operation on iss53.
->>>>>>> iss53
+I modified the file in the master branch.
